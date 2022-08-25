@@ -1,5 +1,5 @@
 function getLttImage() {
-    fetch('data.json')
+    fetch('https://raw.githubusercontent.com/dr-21/ltt/master/data.json')
     .then(res => res.json())
     .then(data => {
         let image64 = data["image64"];
