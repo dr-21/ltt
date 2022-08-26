@@ -8,7 +8,7 @@ body {
 div.transbox {
     margin: 30px;
     background-color: #ffffff;
-    border: 1px solid #85c4c7;
+    border: 1px solid #d3d3d3;
     opacity: 0.75;
 }
   
@@ -53,7 +53,7 @@ div.container {
     position: relative;
     width: 150px;
     height: 100px;
-    background-color: #e9c46a;
+    background-color: #6ec1f9;
   }
   
   .gift:before {
@@ -75,7 +75,7 @@ div.container {
   
   .click {
     position: absolute;
-    background-color: #e9c46a;
+    background-color: #2fa9fa;
     width: 170px;
     height: 40px;
     top:-40px;
